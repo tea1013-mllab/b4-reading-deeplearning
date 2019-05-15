@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1557673889 "slide.dvi" "slide.pdf" "slide" 1557673890
-  "slide.dvi" 1557673878 197748 7175de351d218641d225b7a4276864e4 "latex"
+["dvipdf"] 1557715098 "slide.dvi" "slide.pdf" "slide" 1557715099
+  "slide.dvi" 1557715097 197716 3a47e5b0881d0aabbae2b49f4081a0f2 "latex"
   (generated)
   "slide.pdf"
-["latex"] 1557673726 "slide.tex" "slide.dvi" "slide" 1557673890
+["latex"] 1557715095 "slide.tex" "slide.dvi" "slide" 1557715099
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamercolorthememetropolis.sty" 1555023740 3961 a26340357813f2d570838e33aec7d93b ""
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamerfontthememetropolis.sty" 1555023740 11439 631ed428006d7cf3f27ae648004ca47f ""
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamerinnerthememetropolis.sty" 1555023740 9093 b3363c49bd2ed0be1fd18f75a61056fe ""
@@ -173,15 +173,15 @@
   "images/over-under-fitting.png" 1557563066 88365 a7026dd2c4d0f572c4b30a049b2fdde7 ""
   "images/vc3.png" 1557650976 6086 4e7aef16aeeecbb9f7582f7e1e2f3191 ""
   "images/vc4.png" 1557651136 2236 e0b35e292a54af8263e00c3f87cd31fe ""
-  "slide.aux" 1557673878 10987 37331a522fb34f26fba5396a32d4ef8d ""
-  "slide.nav" 1557673878 6211 c337e9938f8b6e64d877b3ea77027a40 ""
-  "slide.out" 1557673878 372 95775543f96caccc40c7c7a46ed05c94 ""
-  "slide.tex" 1557673749 39337 b614e6c444cf5c2759f64caffbd11858 ""
-  "slide.toc" 1557673878 382 2b8fa15efa6e2b6c08850c9f8d5dead4 ""
+  "slide.aux" 1557715097 10987 37331a522fb34f26fba5396a32d4ef8d ""
+  "slide.nav" 1557715097 6211 c337e9938f8b6e64d877b3ea77027a40 ""
+  "slide.out" 1557715097 372 95775543f96caccc40c7c7a46ed05c94 ""
+  "slide.tex" 1557715092 39307 8a37e5068bf229beec2572ebb3fd15ad ""
+  "slide.toc" 1557715097 382 2b8fa15efa6e2b6c08850c9f8d5dead4 ""
   (generated)
-  "slide.nav"
-  "slide.out"
   "slide.toc"
-  "slide.aux"
-  "slide.dvi"
+  "slide.out"
   "slide.log"
+  "slide.aux"
+  "slide.nav"
+  "slide.dvi"

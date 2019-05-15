@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.11.24)  13 MAY 2019 00:11
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.11.24)  13 MAY 2019 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,23 +8,20 @@ pLaTeX2e <2017/10/28>+2 (based on LaTeX2e <2017-04-15>)
 Babel <3.15> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2017/11/10 v3.44 A class for typesetting presentations
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count82
 )
 \beamer@tempbox=\box42
 \beamer@tempcount=\count83
 \c@beamerpauses=\count84
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
 \beamer@slideinframe=\count85
 \beamer@minimum=\count86
 )
 \beamer@commentbox=\box43
 \beamer@modecount=\count87
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 \headdp=\dimen118
@@ -69,23 +66,18 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 \beamer@coveringdepth=\count104
 \beamer@sectionadjust=\count105
 \beamer@tocsectionnumber=\count106
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 ))
 \beamer@paperwidth=\skip42
 \beamer@paperheight=\skip43
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count107
@@ -100,57 +92,39 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen140
 \Gm@layoutvoffset=\dimen141
 \Gm@dimlist=\toks16
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvipdfmx.def on input line 99.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks17
 \pgfutil@tempdima=\dimen144
 \pgfutil@tempdimb=\dimen145
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box50
-(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everyshi.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks18
 \pgfkeys@temptoks=\toks19
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks20
 ))
 \pgf@x=\dimen146
@@ -170,35 +144,26 @@ ode.tex
 \t@pgf@toka=\toks21
 \t@pgf@tokb=\toks22
 \t@pgf@tokc=\toks23
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-dvipdfmx.def
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
-.def
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
 File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )
 \pgfsys@objnum=\count114
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count115
 \pgfsyssoftpath@bigbuffer@items=\count116
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: dvipdfmx.def on input line 225.
@@ -210,43 +175,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen154
 \pgfmath@count=\count117
 \pgfmath@box=\box51
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
 \pgfmath@stack@operation=\toks26
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count118
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen155
 \pgf@picmaxx=\dimen156
@@ -262,105 +202,68 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@yy=\dimen166
 \pgf@zx=\dimen167
 \pgf@zy=\dimen168
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen169
 \pgf@path@lasty=\dimen170
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen171
 \pgf@shorten@start@additional=\dimen172
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box52
 \pgf@hbox=\box53
 \pgf@layerbox@main=\box54
 \pgf@picture@serial@count=\count119
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen173
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen174
 \pgf@pt@y=\dimen175
 \pgf@pt@temp=\dimen176
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen177
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen178
 \pgf@sys@shading@range@num=\count120
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box55
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+))) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count121
 \XC@countmixins=\count122
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -377,16 +280,14 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
 Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
 Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
@@ -398,18 +299,15 @@ Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen179
 \Hy@linkcounter=\count123
 \Hy@pagecounter=\count124
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count125
@@ -428,8 +326,7 @@ Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4751.
 \c@Hy@tempcnt=\count126
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -463,53 +360,35 @@ File: hdvipdfm.def 2017/03/14 v6.85a Hyperref driver for dvipdfm
 \HyField@AnnotCount=\count130
 \Fld@listcount=\count131
 \c@bookmark@seq@number=\count132
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasecompatibility.st
-y) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasefont.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks27
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
 Package: sansmathaccent 2013/03/28
-(/usr/local/texlive/2017/texmf-dist/tex/latex/filehook/filehook.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2011/10/12 v0.5d Hooks for input files
-)))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
+))) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
 Package: translator 2010/06/12 ver 1.10
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-lang
-uage-mappings.tex)))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex))) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
 \beamer@argscount=\count133
 \beamer@lastskipcover=\skip44
 \beamer@trivlistdepth=\count134
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasesection.sty
 \c@lecture=\count135
 \c@part=\count136
 \c@section=\count137
 \c@subsection=\count138
 \c@subsubsection=\count139
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
 \beamer@framebox=\box57
 \beamer@frametitlebox=\box58
 \beamer@zoombox=\box59
@@ -524,33 +403,25 @@ uage-mappings.tex)))
 \beamer@envbody=\toks28
 \framewidth=\dimen184
 \c@framenumber=\count143
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 \beamer@splitbox=\box60
 \beamer@autobreakcount=\count144
 \beamer@autobreaklastheight=\dimen185
 \beamer@frametitletoks=\toks29
 \beamer@framesubtitletoks=\toks30
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.
-sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
 \beamer@footins=\box61
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
 \beamer@bg@ht=\dimen186
 \beamer@bg@wd=\dimen187
 \beamer@bg@dp=\dimen188
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
 \beamer@frameboxcopy=\box62
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
 \beamer@sbttoks=\toks31
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
 (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@box=\box63
 \bmb@colorbox=\box64
@@ -563,9 +434,7 @@ sty
 \bmb@prevheight=\dimen192
 )
 \beamer@blockheadheight=\dimen193
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.s
-ty (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks32
 )
@@ -573,29 +442,23 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \c@table=\count146
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
 \beamer@section@min@dim=\dimen194
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks33
 \ex@=\dimen195
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen196
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count147
@@ -635,8 +498,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks38
 \thm@bodyfont=\toks39
@@ -649,26 +511,13 @@ Package: amsthm 2015/03/04 v2.20.2
 \dth@everypar=\toks43
 )
 \c@theorem=\count159
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/theme/beamerthemede
-fault.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/font/beamerfontthem
-edefault.sty)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/color/beamercolorth
-emedefault.sty)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerth
-emedefault.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/theme/beamerthemedefault.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/font/beamerfontthemedefault.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemedefault.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemedefault.sty
 \beamer@dima=\dimen260
 \beamer@dimb=\dimen261
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/outer/beamerouterth
-emedefault.sty)))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/bxdpx-beamer/bxdpx-beamer.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemedefault.sty))) (/usr/local/texlive/2017/texmf-dist/tex/latex/bxdpx-beamer/bxdpx-beamer.sty
 Package: bxdpx-beamer 2016/08/06 v0.3
 \bxqbd@ghost=\box70
-)
-(/usr/local/texlive/2017/texmf-dist/tex/platex/pxjahyper/pxjahyper.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/platex/pxjahyper/pxjahyper.sty
 Package: pxjahyper 2017/10/17 v0.3a
 
 
@@ -683,17 +532,13 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 49.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 49.
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/comment/comment.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write5
-
-Excluding comment 'comment')
+ Excluding comment 'comment')
 \sympureletters=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 13.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 13.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup7
 \symboldletters=\mathgroup8
@@ -701,11 +546,9 @@ Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldpureletters=\mathgroup10
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
-)
-(/usr/local/texlive/2017/texmf-dist/tex/platex/base/ascmac.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/platex/base/ascmac.sty
 Package: ascmac 2017/07/22 v2.0d ascmac wrapper (community edition) 
-
-(/usr/local/texlive/2017/texmf-dist/tex/platex/base/tascmac.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/platex/base/tascmac.sty
 Package: tascmac 2017/07/22 v2.0d ascmac package (community edition) 
 \@savetbaselineshift=\dimen262
 \@saveybaselineshift=\dimen263
@@ -722,23 +565,16 @@ Package: tascmac 2017/07/22 v2.0d ascmac package (community edition)
 \@@bwsp=\box77
 \@bcal=\count160
 \shaderule=\dimen267
-))
-(/Users/tea/Library/texmf/tex/latex/metropolis/beamerthememetropolis.sty
+)) (/Users/tea/Library/texmf/tex/latex/metropolis/beamerthememetropolis.sty
 Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
 \pgfopts@list@add@a@toks=\toks45
 \pgfopts@list@add@b@toks=\toks46
-)
-(/Users/tea/Library/texmf/tex/latex/metropolis/beamerinnerthememetropolis.sty
+) (/Users/tea/Library/texmf/tex/latex/metropolis/beamerinnerthememetropolis.sty
 Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count161
 \calc@Bcount=\count162
@@ -750,48 +586,29 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count163
 \calc@Cskip=\skip59
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box78
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen270
 \pgf@nodesepend=\dimen271
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen272
 \pgffor@skip=\dimen273
 \pgffor@stack=\toks47
 \pgffor@toks=\toks48
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count164
 \pgfplotmarksize=\dimen274
@@ -810,9 +627,7 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofchildren=\count166
 \tikznumberofcurrentchild=\count167
 \tikz@fig@count=\count168
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count169
 \pgfmatrixcurrentcolumn=\count170
@@ -820,8 +635,7 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count172
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
 \metropolis@titleseparator@linewidth=\skip60
@@ -830,29 +644,20 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 \metropolis@blocksep=\skip63
 \metropolis@blockadjust=\skip64
 \metropolis@parskip=\skip65
-)
-(/Users/tea/Library/texmf/tex/latex/metropolis/beamerouterthememetropolis.sty
+) (/Users/tea/Library/texmf/tex/latex/metropolis/beamerouterthememetropolis.sty
 Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
 \metropolis@frametitle@padding=\skip66
 \metropolis@progressinheadfoot=\skip67
 \metropolis@progressinheadfoot@linewidth=\skip68
-)
-(/Users/tea/Library/texmf/tex/latex/metropolis/beamercolorthememetropolis.sty
+) (/Users/tea/Library/texmf/tex/latex/metropolis/beamercolorthememetropolis.sty
 Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
-)
-(/Users/tea/Library/texmf/tex/latex/metropolis/beamerfontthememetropolis.sty
+) (/Users/tea/Library/texmf/tex/latex/metropolis/beamerfontthememetropolis.sty
 Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
 
 
-Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
-aTeX to use the Fira fonts on input line 95.
+Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaLaTeX to use the Fira fonts on input line 95.
 
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/font/beamerfontthem
-eprofessionalfonts.sty)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerth
-emecircles.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/here/here.sty)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/font/beamerfontthemeprofessionalfonts.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemecircles.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/here/here.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count173
 \float@exts=\toks49
@@ -921,11 +726,9 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box85
 Package hyperref Info: Link coloring OFF on input line 93.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count174
@@ -933,34 +736,21 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 93.
 LaTeX Info: Redefining \pageref on input line 93.
 LaTeX Info: Redefining \nameref on input line 93.
-
-(./slide.out) (./slide.out)
+ (./slide.out) (./slide.out)
 \@outlinefile=\write6
 \openout6 = `slide.out'.
 
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
-r-basic-dictionary/translator-basic-dictionary-English.dict
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
-r-bibliography-dictionary/translator-bibliography-dictionary-English.dict
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-bibliography-dictionary/translator-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
-r-environment-dictionary/translator-environment-dictionary-English.dict
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-environment-dictionary/translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
-r-months-dictionary/translator-months-dictionary-English.dict
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-months-dictionary/translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
-r-numbers-dictionary/translator-numbers-dictionary-English.dict
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-numbers-dictionary/translator-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
-r-theorem-dictionary/translator-theorem-dictionary-English.dict
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./slide.nav)
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
@@ -1015,8 +805,7 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 ] (./slide.toc) [3
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 125
-.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 125.
 LaTeX Font Info:    No file OMScmss.fd. on input line 125.
 
 
@@ -1034,21 +823,16 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 
 ]
 LaTeX Font Info:    Try loading font information for U+msa on input line 144.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 144.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 144.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input line 144.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [6
 
 ] [7
@@ -1097,8 +881,7 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 
 ] [20
 
-]
-[21
+] [21
 
 ]
 LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <8> not available
@@ -1130,8 +913,7 @@ File: ./images/mse-opt.png Graphic file (type bmp)
 
 ] [30
 
-] (./slide.toc)
-[31
+] (./slide.toc) [31
 
 ] [32
 
@@ -1184,8 +966,7 @@ File: ./images/k-fold.png Graphic file (type bmp)
 <./images/k-fold.png>
  [45
 
-] (./slide.toc)
-[46
+] (./slide.toc) [46
 
 ] [47
 
@@ -1227,7 +1008,6 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1043.
  (./slide.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1043.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1043.
-
 Package rerunfilecheck Info: File `slide.out' has not changed.
 (rerunfilecheck)             Checksum: 95775543F96CACCC40C7C7A46ED05C94;372.
 
@@ -1238,10 +1018,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  20596 strings out of 493642
  414348 string characters out of 6148747
- 480258 words of memory out of 5000000
+ 480260 words of memory out of 5000000
  23642 multiletter control sequences out of 15000+600000
  39793 words of font info for 134 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  71i,16n,97p,1848b,795s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on slide.dvi (53 pages, 197748 bytes).
+Output written on slide.dvi (53 pages, 197716 bytes).
