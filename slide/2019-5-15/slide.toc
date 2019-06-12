@@ -1,6 +1,0 @@
-\beamer@sectionintoc {1}{はじめに}{3}{0}{1}
-\beamer@sectionintoc {2}{学習アルゴリズム}{5}{0}{2}
-\beamer@sectionintoc {3}{線形回帰}{25}{0}{3}
-\beamer@sectionintoc {4}{容量，過学習，未学習}{31}{0}{4}
-\beamer@sectionintoc {5}{ハイパーパラメータと検証集合}{41}{0}{5}
-\beamer@sectionintoc {6}{推定量，バイアス，バリアンス}{46}{0}{6}

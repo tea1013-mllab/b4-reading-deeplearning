@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{パラメータ拘束とパラメータ共有}{3}{0}{1}
+\beamer@sectionintoc {2}{スパース表現}{7}{0}{2}
+\beamer@sectionintoc {3}{バギングやその他のアンサンブル手法}{9}{0}{3}
+\beamer@sectionintoc {4}{ドロップアウト}{14}{0}{4}
+\beamer@sectionintoc {5}{敵対的学習}{23}{0}{5}
+\beamer@sectionintoc {6}{接距離，接線伝播法，多様体接分類器}{26}{0}{6}

@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1557620594 "slide.dvi" "slide.pdf" "slide" 1557620595
-  "slide.dvi" 1557620594 189820 475ff8f6500756ba9601b1c298b7f153 "latex"
+["dvipdf"] 1560245533 "slide.dvi" "slide.pdf" "slide" 1560245534
+  "slide.dvi" 1560245533 113540 7c2173af2baa4b81ac9202c59ceb889d "latex"
   (generated)
   "slide.pdf"
-["latex"] 1557620592 "slide.tex" "slide.dvi" "slide" 1557620595
+["latex"] 1560245532 "slide.tex" "slide.dvi" "slide" 1560245534
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamercolorthememetropolis.sty" 1555023740 3961 a26340357813f2d570838e33aec7d93b ""
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamerfontthememetropolis.sty" 1555023740 11439 631ed428006d7cf3f27ae648004ca47f ""
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamerinnerthememetropolis.sty" 1555023740 9093 b3363c49bd2ed0be1fd18f75a61056fe ""
@@ -166,20 +166,17 @@
   "/usr/local/texlive/2017/texmf-dist/tex/platex/base/tascmac.sty" 1501364340 10806 5c94749c41bc9464fa1ad410734ff775 ""
   "/usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/minijs.sty" 1480098846 1770 3f51ea6d4b5345420a6b2861b6b86c46 ""
   "/usr/local/texlive/2017/texmf-dist/tex/platex/pxjahyper/pxjahyper.sty" 1508272932 20250 1ef2aca3a22a048868a7f3e996f89beb ""
-  "images/bias-variance.pdf" 1557619622 93009 d73a3ddc91f60693c171853a7040caa0 ""
-  "images/capacity.pdf" 1557572804 90605 b7085150f8c1f2383b971c95063ba2f7 ""
-  "images/k-fold.pdf" 1557588621 83795 5dd4ccde6d10e09be151ddf0dfd4b83e ""
-  "images/mse-opt.pdf" 1557550054 102741 03606e005089f5cdc8b3f7b556d11dd7 ""
-  "images/over-under-fitting.pdf" 1557565391 74107 600e66c9a06df666a3e7eb82887f1b8e ""
-  "slide.aux" 1557620594 10987 37331a522fb34f26fba5396a32d4ef8d ""
-  "slide.nav" 1557620594 6211 c337e9938f8b6e64d877b3ea77027a40 ""
-  "slide.out" 1557620594 372 95775543f96caccc40c7c7a46ed05c94 ""
-  "slide.tex" 1557620591 34457 dc3ae06e41b11ae9d29726846454aa90 ""
-  "slide.toc" 1557620594 382 2b8fa15efa6e2b6c08850c9f8d5dead4 ""
+  "images/bagging.png" 1560006633 168190 4b0338720be19d4d0e51ebe705179a98 ""
+  "images/vae.png" 1560091828 529319 52c9ea18e7e453b79e90ad7eab807da9 ""
+  "slide.aux" 1560245533 7236 0db3888572853fe04b1d6ef1f3758126 ""
+  "slide.nav" 1560245533 3972 2646efb8f6c00591effe214c4d7993c7 ""
+  "slide.out" 1560245533 411 0d4bbf82b1025432d68e1a35cc364ce9 ""
+  "slide.tex" 1560245531 23158 b936084c7da3b7b8d497b8597fa497a1 ""
+  "slide.toc" 1560245533 420 ed3debe1a82939e770d253dba57ff68f ""
   (generated)
-  "slide.aux"
-  "slide.nav"
   "slide.dvi"
-  "slide.log"
+  "slide.nav"
   "slide.toc"
   "slide.out"
+  "slide.log"
+  "slide.aux"
