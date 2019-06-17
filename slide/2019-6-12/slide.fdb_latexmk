@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1560245533 "slide.dvi" "slide.pdf" "slide" 1560245534
-  "slide.dvi" 1560245533 113540 7c2173af2baa4b81ac9202c59ceb889d "latex"
+["dvipdf"] 1560737687 "slide.dvi" "slide.pdf" "slide" 1560737688
+  "slide.dvi" 1560737687 128696 188699d9897dec1edd3b21405fe400dd "latex"
   (generated)
   "slide.pdf"
-["latex"] 1560245532 "slide.tex" "slide.dvi" "slide" 1560245534
+["latex"] 1560737685 "slide.tex" "slide.dvi" "slide" 1560737688
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamercolorthememetropolis.sty" 1555023740 3961 a26340357813f2d570838e33aec7d93b ""
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamerfontthememetropolis.sty" 1555023740 11439 631ed428006d7cf3f27ae648004ca47f ""
   "/Users/tea/Library/texmf/tex/latex/metropolis/beamerinnerthememetropolis.sty" 1555023740 9093 b3363c49bd2ed0be1fd18f75a61056fe ""
@@ -167,16 +167,19 @@
   "/usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/minijs.sty" 1480098846 1770 3f51ea6d4b5345420a6b2861b6b86c46 ""
   "/usr/local/texlive/2017/texmf-dist/tex/platex/pxjahyper/pxjahyper.sty" 1508272932 20250 1ef2aca3a22a048868a7f3e996f89beb ""
   "images/bagging.png" 1560006633 168190 4b0338720be19d4d0e51ebe705179a98 ""
+  "images/dropout.png" 1560736405 130966 832e295da5dcdb2d27fcda4ba1fa9300 ""
+  "images/manifold.png" 1560669477 45600 652246c78becc1ada57ff2104f59f792 ""
+  "images/sparse.png" 1560667671 189753 d5606ddd8acd12f4abefd40b2112cae0 ""
   "images/vae.png" 1560091828 529319 52c9ea18e7e453b79e90ad7eab807da9 ""
-  "slide.aux" 1560245533 7236 0db3888572853fe04b1d6ef1f3758126 ""
-  "slide.nav" 1560245533 3972 2646efb8f6c00591effe214c4d7993c7 ""
-  "slide.out" 1560245533 411 0d4bbf82b1025432d68e1a35cc364ce9 ""
-  "slide.tex" 1560245531 23158 b936084c7da3b7b8d497b8597fa497a1 ""
-  "slide.toc" 1560245533 420 ed3debe1a82939e770d253dba57ff68f ""
+  "slide.aux" 1560737687 8127 337156367e78c8159aa02ba587b706d1 ""
+  "slide.nav" 1560737687 4438 4b079e336d2e9dbf44671a43e1ce24c5 ""
+  "slide.out" 1560737687 411 0d4bbf82b1025432d68e1a35cc364ce9 ""
+  "slide.tex" 1560737683 26206 937b30d50b573f7b23efb3f0a26c029d ""
+  "slide.toc" 1560737687 421 acbdced6c86520ae7855b845293028e7 ""
   (generated)
-  "slide.dvi"
-  "slide.nav"
-  "slide.toc"
-  "slide.out"
   "slide.log"
   "slide.aux"
+  "slide.nav"
+  "slide.dvi"
+  "slide.toc"
+  "slide.out"

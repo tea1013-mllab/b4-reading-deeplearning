@@ -340,24 +340,6 @@
 
 %-------------------
 
-\begin{frame}{ドロップアウトの例}
-  \begin{figure}[htbp]
-    \begin{minipage}{.48\textwidth}
-      \begin{itemize}
-        \item $\mu_{\star}$はドロップアウトの2値マスクを表す
-        \item 無作為に$\bold{\mu}$を抽出し，入力，隠れユニットにベクトルの要素を1つ対応させる．
-        \item 各ユニットに対応するマスクをかけ，その後は通常通りに順伝播を行う
-      \end{itemize}
-    \end{minipage}
-    \hfill
-    \begin{minipage}{0.50\textwidth}
-      \centering\includegraphics[height=6cm]{./images/dropout.png}
-      \caption{ドロップアウトの例．上は通常の順伝播，下は上のネットワークにドロップアウトを施したもの．}\label{fig:tiger}
-    \end{minipage}
-  \end{figure}
-\end{frame}
-%-------------------
-
 \begin{frame}{ドロップアウトとバギングの違い}
   \begin{itemize}
     \item ドロップアウトとバギングの学習は同じではない
@@ -544,7 +526,7 @@
 
 %-------------------
 
-\begin{frame}{接線伝播法}
+\begin{frame}{接線伝播アルゴリズム}
   \begin{itemize}
     \item ニューラルネットワークの各出力$f(\bm{x})$を既知の変動要因に対して局所的に不変にするペナルティを加える
     \begin{itemize}
@@ -559,7 +541,6 @@
     \begin{itemize}
       \item 特定の変換(画像でいうと回転や平行移動)に対してモデルが不変となる
     \end{itemize}
-    \item \underline{多様体の接ベクトルを知っている必要がある}
   \end{itemize}
 \end{frame}
 
@@ -567,34 +548,10 @@
 
 \begin{frame}{多様体接分類器}
   \begin{itemize}
-    \item 事前に接ベクトルを知る必要がない\\
-    \item 自己符号化器では多様体接ベクトルを推定できる
-  \end{itemize}
-  \begin{exampleblock}{多様体接分類器のアルゴリズム}
-    \begin{enumerate}
-      \item 自己符号化器を使って教師なし学習で多様体の構造を学習する
-      \item 1で学習した接ベクトルを用いて接線伝播法で正則化する
-    \end{enumerate}
-  \end{exampleblock}
-  \begin{itemize}
-    \item 詳細は14章
-  \end{itemize}
-\end{frame}
-
-%-------------------
-
-\begin{frame}{接線伝播法と多様体接分類器}
-  \begin{figure}[htbp]
-    \centering
-    \includegraphics[keepaspectratio, scale=0.30]{./images/manifold.png}
-    \caption{接線伝播法と多様体接分類器の主要な考えを示す図．各曲線は異なるクラスの多様体を表し，ここでは2次元平面に埋め込まれた1次元多様体を図示する．}
-  \end{figure}
-  \begin{itemize}
-    \item 分類関数は多様体に対して垂直に動くときは急激に変化
+    \item 事前に接ベクトルを知る必要がない
     \begin{itemize}
-      \item クラス多様体に沿って動くときは変化しない
+      \item 接戦伝播アルゴリズムでは知る必要がある
     \end{itemize}
-    \item 接線伝播法と多様体接分類器は多様体に沿って$\bm{x}$が動いてもあまり変化しないように$f(\bm{x})$を正則化する
   \end{itemize}
 \end{frame}
 
